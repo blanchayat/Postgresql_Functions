@@ -1,4 +1,4 @@
-⚙️ Postgresql Functions
+⚙️ POSTGRESQL FUNCTIONS
 
 • String Functions:       Upper, Lower, Character Handling, Concatenation  
 • Math Functions:         Rounding, Random Numbers, Arithmetic  
